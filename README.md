@@ -1,4 +1,4 @@
-# SAO BENTO LIGHTING - Sistema de Cadastro de Produtos
+# Sistema de Cadastro de Produtos
 
 ## 📋 Descripción
 
@@ -148,6 +148,4 @@ if __name__ == '__main__':
 - **pymssql** 2.3.0 - Conexão SQL Server
 - **python-dotenv** 1.0.0 - Gerenciamento de variáveis
 
-## 📝 Licença
 
-© 2026 SAO BENTO LIGHTING SOLUTIONS LTDA. Todos os direitos reservados.
