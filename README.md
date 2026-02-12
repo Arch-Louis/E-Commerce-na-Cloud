@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Produtos
 
-## 📋 Descripción
+## 📋 Description
 
 Aplicação web para cadastro e gerenciamento de produtos com integração a Azure Blob Storage e SQL Server.
 
@@ -147,5 +147,6 @@ if __name__ == '__main__':
 - **azure-storage-blob** 12.28.0 - Azure Blob Storage
 - **pymssql** 2.3.0 - Conexão SQL Server
 - **python-dotenv** 1.0.0 - Gerenciamento de variáveis
+
 
 
